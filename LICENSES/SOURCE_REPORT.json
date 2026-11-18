@@ -1,0 +1,61 @@
+{
+  "backbones": {
+    "_dlinear.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/models/DLinear.py",
+      "upstream_sha256": "79860f00f59bb7c27501e449582541381f84310b85804c53a56dbf960acc332f",
+      "shipped_sha256": "d24478a322645f372795663cef04a031cb7bae1088fe17372212aff56ee9d3ca"
+    },
+    "_autoformer.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/models/Autoformer.py",
+      "upstream_sha256": "cf79692f88c85711fcc2bcfa83d76bc13fc3f7b7b82f86cb2994456998c13de5",
+      "shipped_sha256": "473243042ad283a73a1e34c448935b8094ae579c89dc18d38950a07e7a82ac40"
+    },
+    "_fedformer.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/models/FEDformer.py",
+      "upstream_sha256": "260c83b1f81b72929c7eb7a6516873d9283d06c3b2186e440b5e5330050143fe",
+      "shipped_sha256": "c0f43d262d4054f8ee77445347cde2165c1e59b0ad44fad1c5c0887a68ea79de"
+    },
+    "_fourier.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/layers/FourierCorrelation.py",
+      "upstream_sha256": "4bb626f836d63d68b80545a1bd26efc0f7f1e7dfd35267e4f8cfee3606f18a5b",
+      "shipped_sha256": "44d71f5673b9d038aa52f1df3e9841e9bfdf995b1127173f1c9e63d17282ae8e"
+    },
+    "_embedding.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/layers/Embed.py",
+      "upstream_sha256": "8685a0023a06546f3a77f7e65432c2206493693c32f4ca5aba8fbe4a0c25ce57",
+      "shipped_sha256": "de596f6583d5f5faccd253fcb77d136cd3aa5d184b54b6fa880e6770251c97f5"
+    },
+    "_former_layers.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/layers/Autoformer_EncDec.py",
+      "upstream_sha256": "a507fb837a61e0763c5d770038c291a0ee9274d8dccab3d23caaedd0a2492153",
+      "shipped_sha256": "7bd32b22f21c51fe73c30a034b4810cfea3662f0e0d736daec5d67f155a96e86"
+    },
+    "_autocorrelation.py": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/layers/AutoCorrelation.py",
+      "upstream_sha256": "d9f42873c473cdf0dc765afb98759044581b469478c7c8b584e75234e689e655",
+      "shipped_sha256": "fb32df85e2bdc492056dd6a32e657fcc8f598e63d8a620792b45c64de25d37d3"
+    }
+  },
+  "notices": {
+    "DDN": {
+      "source": "https://github.com/Hank0626/DDN/blob/72b8d9c595ca81e70500919689f8715ed133e6d2/LICENSE",
+      "shipped_sha256": "475078cc1f6de41e1b39c66b61aad6e870ddec14ce7132e18241ed74b9b3b6ff"
+    },
+    "DLinear": {
+      "source": "https://github.com/cure-lab/LTSF-Linear/blob/0c113668a3b88c4c4ee586b8c5ec3e539c4de5a6/LICENSE",
+      "shipped_sha256": "195440db73029b048f34f3a8509add1611d6608e1edafb766eb398a65300f7a2"
+    },
+    "Autoformer": {
+      "source": "https://github.com/thuml/Autoformer/blob/51c7d416ae120b805fd5beef2f4ccf7de496a6ff/LICENSE",
+      "shipped_sha256": "8a6caa178ea3f33ebff5d7bb5558628cf5b423305dc30d3630f86564c7db94a2"
+    },
+    "FEDformer": {
+      "source": "https://github.com/MAZiqing/FEDformer/blob/c0f6b972def125691434d62be1ecadf710ae921a/LICENSE",
+      "shipped_sha256": "74323c2d2119ab99a00c4d0bda4f72c4ff3e3aca49af17eaf62aec593f2af1b2"
+    },
+    "FAN": {
+      "source": "https://github.com/icannotnamemyself/FAN/blob/838e1b002aa0e8cbc3889dfb69967c40c0c15761/LICENSE",
+      "shipped_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    }
+  }
+}

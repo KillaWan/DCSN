@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dcsn"
+version = "1.0.0"
+description = "Difference-Conditioned Shape Normalization for time series forecasting"
+requires-python = ">=3.11"
+dependencies = ["torch==2.11.0", "numpy==2.4.1", "pandas==2.3.3"]
+
+[tool.setuptools]
+license-files = ["LICENSES/*"]
+
+[tool.setuptools.packages.find]
+include = ["dcsn*"]
+
+[tool.setuptools.package-data]
+dcsn = ["configs.json"]

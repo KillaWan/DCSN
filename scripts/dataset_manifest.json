@@ -1,0 +1,67 @@
+[
+  {
+    "dataset": "ETTh1",
+    "url": "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/1d16c8f4f943005d613b5bc962e9eeb06058cf07/ETT-small/ETTh1.csv",
+    "path": "ETTh1/ETTh1.csv",
+    "channels": 7,
+    "bytes": 2589657,
+    "sha256": "f18de3ad269cef59bb07b5438d79bb3042d3be49bdeecf01c1cd6d29695ee066"
+  },
+  {
+    "dataset": "ETTh2",
+    "url": "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/1d16c8f4f943005d613b5bc962e9eeb06058cf07/ETT-small/ETTh2.csv",
+    "path": "ETTh2/ETTh2.csv",
+    "channels": 7,
+    "bytes": 2417960,
+    "sha256": "a3dc2c597b9218c7ce1cd55eb77b283fd459a1d09d753063f944967dd6b9218b"
+  },
+  {
+    "dataset": "ETTm1",
+    "url": "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/1d16c8f4f943005d613b5bc962e9eeb06058cf07/ETT-small/ETTm1.csv",
+    "path": "ETTm1/ETTm1.csv",
+    "channels": 7,
+    "bytes": 10360719,
+    "sha256": "6ce1759b1a18e3328421d5d75fadcb316c449fcd7cec32820c8dafda71986c9e"
+  },
+  {
+    "dataset": "ETTm2",
+    "url": "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/1d16c8f4f943005d613b5bc962e9eeb06058cf07/ETT-small/ETTm2.csv",
+    "path": "ETTm2/ETTm2.csv",
+    "channels": 7,
+    "bytes": 9677236,
+    "sha256": "db973ca252c6410a30d0469b13d696cf919648d0f3fd588c60f03fdbdbadd1fd"
+  },
+  {
+    "dataset": "Weather",
+    "url": "https://raw.githubusercontent.com/wwy155/multivariate_timeseries_datasets/89e003fc15d20a310c337f73363e1a07a4beb532/weather.zip",
+    "member": "weather/weather.csv",
+    "path": "weather/weather/weather.csv",
+    "channels": 21,
+    "bytes": 7235425,
+    "sha256": "34ee981d07313e51da2a50bb600072c8ae4a69cb4b0651f4cb93a069d7a2ba63"
+  },
+  {
+    "dataset": "Electricity",
+    "url": "https://raw.githubusercontent.com/wwy155/multivariate_timeseries_datasets/89e003fc15d20a310c337f73363e1a07a4beb532/electricity/electricity.csv",
+    "path": "electricity/electricity.csv",
+    "channels": 321,
+    "bytes": 95581762,
+    "sha256": "7e45845d54c5219bad0ae6bc1b5316cf8ff9cead5d33fa998a5a51c2e4a497ad"
+  },
+  {
+    "dataset": "Traffic",
+    "url": "https://raw.githubusercontent.com/laiguokun/multivariate-time-series-data/7f402f185cc2435b5e66aed13a3b560ed142e023/traffic/traffic.txt.gz",
+    "path": "traffic/traffic.txt",
+    "channels": 862,
+    "bytes": 136106352,
+    "sha256": "f8b065d9cdceac6a26fb6a541c813aad23f150e23ee75893aeb46256ee692c0c"
+  },
+  {
+    "dataset": "ExchangeRate",
+    "url": "https://raw.githubusercontent.com/wwy155/multivariate_timeseries_datasets/89e003fc15d20a310c337f73363e1a07a4beb532/exchange_rate/exchange_rate.csv",
+    "path": "exchange_rate/exchange_rate.csv",
+    "channels": 8,
+    "bytes": 637800,
+    "sha256": "48b4d9d3d508f5104162e85b9a6042e3557fde11aa9f2944eba8c0d0efc89842"
+  }
+]
